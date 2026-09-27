@@ -1,4 +1,4 @@
-class Q1 {
+class weeek1q6 {
     static void checkDuplicateSeats(int[] seats) {
         boolean found = false;
 

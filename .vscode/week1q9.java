@@ -1,4 +1,4 @@
-class Q4 {
+class week1q9 {
     static void analyzeInventory(int[] a, int[] b) {
         int totalA = 0, totalB = 0;
         int max = a[0];

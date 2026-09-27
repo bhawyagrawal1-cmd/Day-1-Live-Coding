@@ -1,4 +1,4 @@
-class Q2 {
+class week1q7 {
     static void checkTypingAccuracy(String original, String typed) {
         int match = 0;
         int firstMismatch = -1;

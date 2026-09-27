@@ -1,4 +1,4 @@
-class Q1 {
+class week2q1 {
     static void countVowelsAndConsonants(String text) {
         int vowels = 0, consonants = 0;
 

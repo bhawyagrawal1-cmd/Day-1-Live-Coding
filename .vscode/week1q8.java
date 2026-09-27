@@ -1,4 +1,4 @@
-class Q3 {
+class week1q8 {
     static void findLongestStreak(String signalLog) {
         int max = 1, count = 1;
         char color = signalLog.charAt(0);

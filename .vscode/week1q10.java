@@ -1,4 +1,4 @@
-class Q5 {
+class week1q10 {
     static void classifyWordLengths(String review) {
         String[] words = review.split(" ");
 
